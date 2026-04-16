@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hiya I'm Laiza 🐈‍⬛<br>🧠 Majored Computer Science and minored in Data Science at UNC Asheville<br>🌱 Created a web-based task organizer called Orga-Note<br>🛠️ Working on mini side projects to expand my knowledge
+Hiya I'm Laiza 🐈‍⬛<br>🧠 Majored Computer Science and minored in Data Science at UNC Asheville<br>🌱 Created a web-based task organizer called <a href="https://www.orga-note.com/" target="_blank" rel="noopener noreferrer">
+        Orga-Note
+    </a><br>🛠️ Working on mini side projects to expand my knowledge
 
 
 ## 🌐 Socials:
